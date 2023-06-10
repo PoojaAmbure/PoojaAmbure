@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PoojaAmbure
 - 👀 I’m interested in...Software Devlopment 
-- 🌱 I’m currently learning ...java , Springboot , React etc
+- 🌱 I’m currently learning ...Java , Springboot , React etc
 - 📫 How to reach me ... poojaambure1@gmail.com
 
 <!---
